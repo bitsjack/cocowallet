@@ -13,5 +13,11 @@
     "@types/node": "^24.0.0",
     "typescript": "^5.9.3",
     "vite": "^6.4.3"
+  },
+  "dependencies": {
+    "@cashu/cashu-ts": "^5.0.0-rc.4",
+    "@cashu/coco-core": "^2.0.0",
+    "@cashu/coco-indexeddb": "^2.0.0",
+    "@scure/bip39": "^2.4.0"
   }
 }
