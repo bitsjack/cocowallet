@@ -1,1 +1,1 @@
-console.log("cocowallet");
+document.querySelector<HTMLDivElement>("#app")!.textContent = "cocowallet";
